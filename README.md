@@ -53,7 +53,7 @@ This repository is intended for:
 
 ## 🌍 Live Pages
 
-At the bottom of this README, you’ll find a **full list of working links** to every `.php` page in the Knowledge Hub.  
+At the bottom of this README, you’ll find a **full list of working links** to every  page in the Knowledge Hub.  
 These links connect directly to the live hosted content on [programming-ocean.com](https://www.programming-ocean.com/).  
 
 ---
@@ -85,7 +85,7 @@ Feel free to fork, share, and extend the work while giving proper credit.
 
 ## 🔗 Knowledge Hub Pages
 
-# 🌐 Knowledge Hub – PHP Pages
+# 🌐 Knowledge Hub
 
 Below is the full list of all `.php` pages hosted under  
 **https://www.programming-ocean.com/knowledge-hub.php/**

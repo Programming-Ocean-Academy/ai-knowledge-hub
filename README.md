@@ -88,7 +88,7 @@ Feel free to fork, share, and extend the work while giving proper credit.
 # 🌐 Knowledge Hub – PHP Pages
 
 Below is the full list of all `.php` pages hosted under  
-**https://www.programming-ocean.com/knowledge-hub/**
+**https://www.programming-ocean.com/knowledge-hub.php/**
 
 ---
 
